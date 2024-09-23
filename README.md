@@ -36,6 +36,11 @@
 
 </details>
 
+
+### 🐦‍🔥 COLABORADORES
+
+<a href="https://github.com/ianalejandrook15x"><img src="https://github.com/ianalejandrook15x.png" width="100" height="100" alt="ale-rmz"/></a>
+
 ### ✨ CREADOR 
 <a
 href="https://github.com/will-BOT-MD"><img src="https://github.com/will-BOT-MD.png" width="130" height="130" alt="Angelito"/></a>
