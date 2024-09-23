@@ -10,7 +10,7 @@
 </div>
 
 <a href="https://www.atom.bio/crowbot-md/">
-<img src="https://img.shields.io/badge/GataBot_Accounts-000000%7D?style=for-the-badge&logo=biolink&logoColor=white">
+<img src="https://img.shields.io/badge/CrowBot_Accounts-000000%7D?style=for-the-badge&logo=biolink&logoColor=white">
 </a>
 
 
