@@ -9,6 +9,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=300&size=37&duration=3000&pause=100&color=000000&background=601D6E00&center=true&vCenter=true&repeat=true&random=FALSO&width=660&height=90&lines=will-BOT-MD+lanzó;Nueva+versión+Crow Bot - 1.0.0;BY:Niño Piña+y+will-BOT-MD" alt="Typing SVG"/></a>
 </div>
 
+<a href="#"><img title="NyanBot" src="https://img.shields.io/badge/🐦‍🔥𝕮𝖗𝖔𝖜𝕭𝖔𝖙💛 | 𝐍𝐢ñ𝐨 𝐏𝐢ñ𝐚💛 | 𝐁𝐫𝐚𝐰𝐥 𝐒𝐭𝐚𝐫𝐬💛-black?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
+</p>
+
 #### Creador: Niño Piña 🫅
 #### Realizado con: Team Bot Comunity 💛
 
