@@ -17,7 +17,7 @@
 </a>
 
 
-<a href="#"><img title="NyanBot" src="https://img.shields.io/badge/🐦‍🔥𝑪𝑹𝑶𝑾𝑩𝑶𝑻💛 | 𝑵𝑰𝑵̃𝑶 𝑷𝑰𝑵̃𝑨💛 | 𝑩𝑹𝑨𝑾𝑳 𝑺𝑻𝑨𝑹𝑺💛-black?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
+<a href="#"><img title="NyanBot" src="https://img.shields.io/badge/🐦‍🔥𝑪𝑹𝑶𝑾𝑩𝑶𝑻💛 | 𝑵𝑰𝑁̃𝑶 𝑷𝑰𝑁̃𝑨💛 | 𝑩𝑹𝑨𝑾𝑳 𝑺𝑻𝑨𝑹𝑺💛-black?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
 </p>
 
 #### Creador: Niño Piña 🫅
