@@ -34,8 +34,8 @@
 
 <a href="https://chat.whatsapp.com/F0MiFkIWaQtLrZez9Xt2uu" target="blank"><img src="https://img.shields.io/badge/Grupo Oficial CrowBot -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### 💛 𝗖𝗔𝗡𝗔𝗟 𝗢𝗙𝗜𝗖𝗜𝗔𝗟
-## <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Grupo" width="45" height="43"> Canal Oficial 💛
+
+## <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Grupo" width="45" height="43"> 𝗖𝗔𝗡𝗔𝗟 𝗢𝗙𝗜𝗖𝗜𝗔𝗟 💛
 
 <a href="https://whatsapp.com/channel/0029VakfOZfHFxP7rNrUQk2d?text=.menu"><img alt="Canal Oficial 💛" src="https://img.shields.io/badge/Canal - Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
