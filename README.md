@@ -58,4 +58,4 @@ href="https://github.com/will-BOT-MD"><img src="https://github.com/will-BOT-MD.p
 
 > Copyright (c) 2024 **[will-BOT-MD](https://chat.whatsapp.com/EDpXxKq24XJ7QsSDPP6w0a)**.
 
-**`¡GRACIAS POR PREFERIRNOS!` 🍟**
+**`¡GRACIAS POR PREFERIR CROWBOT!` 💛**
