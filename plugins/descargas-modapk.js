@@ -13,7 +13,7 @@ sourceUrl: channel }}})
 let searchA = await search(text)
 let data5 = await download(searchA[0].id)
 let txt = `*乂  APTOIDE - DESCARGAS* 乂\n\n`
-txt += `🌸 *Nombre* : ${data5.name}\n`
+txt += `🍟 *Nombre* : ${data5.name}\n`
 txt += `🚩 *Package* : ${data5.package}\n`
 txt += `🪴 *Update* : ${data5.lastup}\n`
 txt += `⚖ *Peso* :  ${data5.size}`
@@ -27,7 +27,7 @@ return conn.reply(m.chat, '🛑 *Ocurrió un fallo*', m, rcanal )}}
 
 handler.tags = ['descargas']
 handler.help = ['apkmod']
-handler.command = /^(apkmod|apk|dapk2|aptoide|aptoidedl)$/i
+handler.command = ['apk', 'modapk', 'aptoide']
 handler.register = true
 handler.estrellas = 1
 
