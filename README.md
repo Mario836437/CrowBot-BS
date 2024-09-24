@@ -8,6 +8,9 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=300&size=37&duration=3000&pause=100&color=000000&background=601D6E00&center=true&vCenter=true&repeat=true&random=FALSO&width=660&height=90&lines=will-BOT-MD+lanzó;Nueva+versión+Crow Bot - 1.0.0;BY:Niño Piña+y+will-BOT-MD" alt="Typing SVG"/></a>
 </div>
+&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 
 <a href="https://www.atom.bio/crowbot-md/">
 <img src="https://img.shields.io/badge/CrowBot_Accounts-000000%7D?style=for-the-badge&logo=biolink&logoColor=white">
