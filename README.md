@@ -26,9 +26,9 @@
 ### CONTACTOS 💻
 <p>
 
+<a
+href="https://wa.me/50557865603?text="><img src="https://qu.ax/ugHh.jpg" height="125px"></a>
 
-
-<a href="https://api.whatsapp.com/send/?phone=+50557865603&text=Hola 👋 soporte de Crow Bot &type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
  
 ### 💛 𝙂𝙍𝙐𝙋𝙊𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇
 
