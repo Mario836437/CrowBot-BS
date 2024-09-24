@@ -30,6 +30,9 @@
 
 <a href="https://api.whatsapp.com/send/?phone=+50557865603&text=Hola 👋 soporte de Crow Bot &type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
  
+### 💛 𝙂𝙍𝙐𝙋𝙊𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎
+
+<a href="https://chat.whatsapp.com/F0MiFkIWaQtLrZez9Xt2uu" target="blank"><img src="https://img.shields.io/badge/Grupo Oficial CrowBot 1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### **`TK HOST 📲`**
 <a href="https://dash.tk-joanhost.com"><img src="https://i.ibb.co/pr8TnWJ/SAVE-20240915-183758.jpg" height="125px"></a>
